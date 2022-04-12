@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(236,240,241);
+    font-family: Roboto, Helvetica, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1 {
+    background-color: hsla(211, 22%, 75%, 0.3);
+}
+
+p, li {
+    color: #54595F;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+ol li {
+    color: rgb(108, 122, 137);
+}
+
+h3 {
+    color: black;
+}
+
+ol, ul {
+    text-align: center;
+    list-style-position: inside;
+}
